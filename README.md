@@ -5,7 +5,7 @@
 ### <div align="center">Hi! I'm Nicolas Castro</div>  
   
 
-- I'm a Fullstack Developer with +1 years of experience working in different projects with the following stack of technologies: Javascript, Typescript, React.js, Node.js, SQL, and MongoDB. I consider myself a problem-solving, team player, and results-oriented person. I'm looking for new challenges in the Industry where I can bring value to the team and to the company in order to achieve the company's objectives.  
+- I'm a Fullstack Developer with experience working in different projects with the following stack of technologies: Javascript, Typescript, React.js, Node.js, SQL, and MongoDB. I consider myself a problem-solving, team player, and results-oriented person. I'm looking for new challenges in the Industry where I can bring value to the team and to the company in order to achieve the company's objectives.  
   
 
 - My primary tech stack includes React, Redux, Node.js, Express, and SQL. Additionally, I have
